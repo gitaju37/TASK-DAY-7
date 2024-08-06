@@ -1,0 +1,8 @@
+.container{
+    width: 500px;
+    height: 200px;
+    border: 2px solid black;
+    text-align: center;
+   margin: 200px 400px;
+   color: blueviolet;
+}
